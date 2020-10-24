@@ -37,6 +37,7 @@ Get some logical disks infos.
  - docs or doc
    - LICENSE
    - README.md
+   - _config.yml
  - flussi
    - **computers.csv** <- insert here a list of computer to test
    - ldisk.csv <- on first run
